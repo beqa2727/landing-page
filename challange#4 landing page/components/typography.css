@@ -1,0 +1,115 @@
+@import './fonts.css';
+
+h1 {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 78px;
+    font-family: 'spartan';
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 72px;
+    font-family: 'spartan';
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 63px;
+    font-family: 'spartan';
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    font-family: 'Lato', sans-serif;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 177%;
+    font-family: 'spartan';
+}
+
+h6,
+.h7_20 {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.h7_20{
+    font-size: 20px;
+    font-family: 'spartan';
+}
+
+.h8 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    font-family: 'spartan';
+}
+
+.h9 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 177%;
+    font-family: 'spartan';
+}
+
+.text_secondary,
+.text_secondary_177 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    color: #263238;
+    font-family: 'spartan';
+}
+
+.text_secondary_177{
+    line-height: 177%;
+}
+
+.text_secondary_small {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #263238;
+    font-family: 'spartan';
+}
+
+.text_secondary_ex_small {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #263238;
+    font-family: 'spartan';
+}
+
+.text_secondary_exx_small {
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 13px;
+    color: #263238;
+    font-family: 'spartan';
+}
+
+.numbers {
+    font-family: 'spartan';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    color: var(--green);
+}
+
+.footer {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    font-family: 'spartan';
+    margin-bottom: 24px;
+}

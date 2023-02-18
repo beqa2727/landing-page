@@ -1,0 +1,38 @@
+.btn {
+    height: 64px;
+    padding-inline: 25px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    border-radius: 10px;
+    padding-inline: 25px;
+    border: 0;
+    color: white;
+}
+
+
+/* colors and line height */
+.btn.line_height_20 {
+    line-height: 20px;
+}
+
+.btn.green {
+    background-color: var(--green);
+}
+
+.btn.light {
+    border: 1px solid #263238;
+    background-color: white;
+    color: #263238;
+    padding-inline: 44px;
+}
+
+/* button large */
+.large {
+    padding: 13px 55px;
+}
+
+/* button extra large */
+.ex_large {
+    padding: 13px 70px;
+}
